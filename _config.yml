@@ -17,7 +17,7 @@ title: GERTY
 description: GERTY documentation
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://b-at.kr/" # the base hostname & protocol for your site, e.g. http://example.com
-repository: just-the-docs/just-the-docs # for github-metadata
+repository: https://github.com/jelinnstar/jelinnstar.github.io.git #just-the-docs/just-the-docs # for github-metadata
 
 permalink: pretty
 
